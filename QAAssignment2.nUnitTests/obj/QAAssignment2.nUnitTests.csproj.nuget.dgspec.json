@@ -1,36 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj": {}
+    "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2.nUnitTests/QAAssignment2.nUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj": {
+    "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2.nUnitTests/QAAssignment2.nUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj",
+        "projectUniqueName": "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2.nUnitTests/QAAssignment2.nUnitTests.csproj",
         "projectName": "QAAssignment2.nUnitTests",
-        "projectPath": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj",
-        "packagesPath": "C:\\Users\\Brent Chang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2.nUnitTests\\obj\\",
+        "projectPath": "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2.nUnitTests/QAAssignment2.nUnitTests.csproj",
+        "packagesPath": "/Users/smars/.nuget/packages/",
+        "outputPath": "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2.nUnitTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Brent Chang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/smars/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\QAAssignment2.csproj": {
-                "projectPath": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\QAAssignment2.csproj"
+              "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2/QAAssignment2.csproj": {
+                "projectPath": "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2/QAAssignment2.csproj"
               }
             }
           }
@@ -39,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -87,29 +79,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\QAAssignment2.csproj": {
+    "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2/QAAssignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\QAAssignment2.csproj",
+        "projectUniqueName": "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2/QAAssignment2.csproj",
         "projectName": "QAAssignment2",
-        "projectPath": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\QAAssignment2.csproj",
-        "packagesPath": "C:\\Users\\Brent Chang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\obj\\",
+        "projectPath": "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2/QAAssignment2.csproj",
+        "packagesPath": "/Users/smars/.nuget/packages/",
+        "outputPath": "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Brent Chang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/smars/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -122,11 +111,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -158,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
         }
       }
     }
