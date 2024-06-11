@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QAAssignment2
 {
-    internal class Product
+    public class Product
     {
         // properties
         public int ProductID { get; set; }
