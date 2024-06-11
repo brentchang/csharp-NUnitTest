@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{374F156A-1E8C-4464-B087-5754E73A759B}|QAAssignment2\\QAAssignment2.csproj|c:\\users\\brent chang\\source\\repos\\qaassignment2\\qaassignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374F156A-1E8C-4464-B087-5754E73A759B}|QAAssignment2\\QAAssignment2.csproj|solutionrelative:qaassignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{374F156A-1E8C-4464-B087-5754E73A759B}|QAAssignment2\\QAAssignment2.csproj|c:\\users\\brent chang\\source\\repos\\qaassignment2\\qaassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{374F156A-1E8C-4464-B087-5754E73A759B}|QAAssignment2\\QAAssignment2.csproj|solutionrelative:qaassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\Product.cs",
+              "RelativeDocumentMoniker": "QAAssignment2\\Product.cs",
+              "ToolTip": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\Product.cs",
+              "RelativeToolTip": "QAAssignment2\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:55:35.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\Program.cs",
               "RelativeDocumentMoniker": "QAAssignment2\\Program.cs",
               "ToolTip": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\Program.cs",
               "RelativeToolTip": "QAAssignment2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T00:50:42.62Z",
               "EditorCaption": ""
