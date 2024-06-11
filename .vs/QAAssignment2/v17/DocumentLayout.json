@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{374F156A-1E8C-4464-B087-5754E73A759B}|QAAssignment2\\QAAssignment2.csproj|c:\\users\\brent chang\\source\\repos\\qaassignment2\\qaassignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{374F156A-1E8C-4464-B087-5754E73A759B}|QAAssignment2\\QAAssignment2.csproj|solutionrelative:qaassignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EA28610-8F15-4F13-9B72-1A723A8F7399}|QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj|c:\\users\\brent chang\\source\\repos\\qaassignment2\\qaassignment2.nunittests\\qaassignment2.nunittests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8EA28610-8F15-4F13-9B72-1A723A8F7399}|QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj|solutionrelative:qaassignment2.nunittests\\qaassignment2.nunittests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{374F156A-1E8C-4464-B087-5754E73A759B}|QAAssignment2\\QAAssignment2.csproj|c:\\users\\brent chang\\source\\repos\\qaassignment2\\qaassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{374F156A-1E8C-4464-B087-5754E73A759B}|QAAssignment2\\QAAssignment2.csproj|solutionrelative:qaassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EA28610-8F15-4F13-9B72-1A723A8F7399}|QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj|c:\\users\\brent chang\\source\\repos\\qaassignment2\\qaassignment2.nunittests\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA28610-8F15-4F13-9B72-1A723A8F7399}|QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj|solutionrelative:qaassignment2.nunittests\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,28 +27,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\Product.cs",
-              "RelativeDocumentMoniker": "QAAssignment2\\Product.cs",
-              "ToolTip": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\Product.cs",
-              "RelativeToolTip": "QAAssignment2\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T00:55:35.866Z",
-              "EditorCaption": ""
+              "Title": "QAAssignment2.nUnitTests",
+              "DocumentMoniker": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj",
+              "RelativeDocumentMoniker": "QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj",
+              "ToolTip": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj",
+              "RelativeToolTip": "QAAssignment2.nUnitTests\\QAAssignment2.nUnitTests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T02:12:58.463Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\Program.cs",
-              "RelativeDocumentMoniker": "QAAssignment2\\Program.cs",
-              "ToolTip": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2\\Program.cs",
-              "RelativeToolTip": "QAAssignment2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "ProductTest.cs",
+              "DocumentMoniker": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2.nUnitTests\\ProductTest.cs",
+              "RelativeDocumentMoniker": "QAAssignment2.nUnitTests\\ProductTest.cs",
+              "ToolTip": "C:\\Users\\Brent Chang\\source\\repos\\QAAssignment2\\QAAssignment2.nUnitTests\\ProductTest.cs",
+              "RelativeToolTip": "QAAssignment2.nUnitTests\\ProductTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T00:50:42.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T01:48:47.963Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
