@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "a3ceocAqUBiTDZiSglbgnI5gUurV7iivA+7i56R+94IqXISPaEGcb1fEFZB9muEBhTScerTFryFUmVpPnP7ufA==",
+  "dgSpecHash": "qXAsDp4Yn/Bor907mbXY9+vwywmVFgy+4oOzbqSH4fQEr7SrTTxLHAUoG6ZRPgepaDjefj5y0ffJLL556oIOIQ==",
   "success": true,
-  "projectFilePath": "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2.nUnitTests/QAAssignment2.nUnitTests.csproj",
+  "projectFilePath": "/Users/smars/Desktop/Assignment/QA/Assignment#2/QAAssignment2.nUnitTests/LaptopDiscount.nUnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/smars/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/smars/.nuget/packages/microsoft.codecoverage/17.7.1/microsoft.codecoverage.17.7.1.nupkg.sha512",
-    "/Users/smars/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/smars/.nuget/packages/microsoft.net.test.sdk/17.7.1/microsoft.net.test.sdk.17.7.1.nupkg.sha512",
     "/Users/smars/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/smars/.nuget/packages/microsoft.testplatform.objectmodel/17.7.1/microsoft.testplatform.objectmodel.17.7.1.nupkg.sha512",
@@ -17,7 +16,6 @@
     "/Users/smars/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
     "/Users/smars/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
     "/Users/smars/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
-    "/Users/smars/.nuget/packages/system.data.datasetextensions/4.5.0/system.data.datasetextensions.4.5.0.nupkg.sha512",
     "/Users/smars/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []

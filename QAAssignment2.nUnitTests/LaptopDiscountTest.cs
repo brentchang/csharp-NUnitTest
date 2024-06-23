@@ -1,9 +1,10 @@
-namespace QAAssignment2.nUnitTests
+namespace LaptopDiscount.nUnitTests
+
 {
     public class Tests
     {
         // declare a private Product object
-        private Product _product;
+        private EmployeeDiscount _product;
 
         [SetUp]
         public void Setup()
